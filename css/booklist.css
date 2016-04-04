@@ -1,0 +1,45 @@
+.main-section__book{
+  
+}
+
+.main-section__bookitem{
+  height: 120px;
+  margin: 10px
+}
+
+.main-section__book a{
+  display: block;
+  height: 130px;
+  border-top :1px solid #dcdcdc;;
+  border-bottom: 1px solid #dcdcdc;;
+  border-collapse:collapse;
+  padding: 3px;
+}
+
+.main-section__book-info{
+  height: 90px;
+  color: rgb(128,128,192);
+  text-decoration:none;
+  display: inline;
+}
+
+.main-section__book-info{
+  display: inline;
+
+}
+
+.main-section__book-info--img,
+.book-detail--img {
+  width: 70px;
+  margin-right: 10px;
+}
+
+
+.main-section__book-info--description{
+  display: block;
+}
+
+.pull-left{
+  float:left;
+}
+

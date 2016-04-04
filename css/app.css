@@ -1,0 +1,112 @@
+.test {
+  background: red;
+  color: black;
+  text-align:center;
+}
+
+
+.test123{
+  border: none;
+  color: red;
+   
+}
+
+.userItem{
+  padding-left: 8px; 
+}
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+
+.head {
+  margin:0 auto;  
+  width:70%;  
+  vertical-align: middle;
+}
+
+.primarysidebar{
+  width:30%;  
+}
+
+.head_navi{
+	list-style:none;
+  width:30%;  
+}
+
+.head_navi li{
+	float:left;
+	
+}
+
+.head_navi li a{	
+	text-decoration:none;
+	color: black;
+	font: 80% Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight:bold; 
+}
+
+.navi_sidebar {
+  list-style:none;
+  float:left;
+}
+
+.navi_sidebar li {
+  border:1px solid black;
+  height:30px;width:150px;
+}
+
+.navi_sidebar li a{
+  color: rgb(33,200,180);
+  font-size:12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  text-decoration:none;
+  font-weight:bold; 
+  text-align:center;
+}
+
+.head_search{
+  float: left;
+  width: 40%;
+  margin-left:10px;
+  margin-right:10px;
+  padding-left: 10%;  
+}
+
+.seach_field .seach_btn{
+  float: right;
+}
+
+.head_help{
+  float: left;
+  margin-left:10px;
+  margin-right:10px;
+  height: 20px;
+}
+
+.head_user{
+  float: left; 
+  margin-left:10px;
+  margin-right:10px; 
+  height: 20px;
+}
+.main{
+  border: 1px solid black;
+  border-color: gray;
+  width:70%;
+  height: 700px;
+  float:left;
+  margin-left:10px;
+}
+
+body {
+    background: white;
+}
+
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}

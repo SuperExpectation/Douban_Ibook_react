@@ -1,0 +1,49 @@
+.test {
+  background: red;
+  color: black;
+  text-align:center;
+}
+
+.head {
+  margin:0 auto;  
+  width:808px;  
+  vertical-align: middle;
+}
+
+.head_navi{
+	list-style:none;
+}
+
+.head_navi li{
+	float:left;
+	
+}
+
+.head_navi li a{	
+	text-decoration:none;
+	color: black;
+	font: 80% Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight:bold; 
+}
+
+.navi_sidebar {
+  list-style:none;
+
+}
+
+.navi_sidebar li {
+  border:1px solid black;
+  height:30px;width:150px;
+}
+
+.navi_sidebar li a{
+  color: rgb(33,200,180);
+  font-size:12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  text-decoration:none;
+  font-weight:bold; 
+  text-align:center;
+}
+
+body {
+    background: white;
+}

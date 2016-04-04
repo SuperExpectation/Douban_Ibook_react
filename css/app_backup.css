@@ -1,0 +1,33 @@
+
+
+.test {
+  background: red;
+  color: black;
+  text-align:center;
+}
+
+.container {
+  margin:0 auto;  
+  width:808px;  
+  vertical-align: middle;
+}
+
+.head_navi{
+	list-style:none;
+}
+
+.head_navi li{
+	float:left;
+	
+}
+
+.head_navi li a{	
+	text-decoration:none;
+	color: black;
+	font: 80% Verdana, Geneva, Arial, Helvetica, sans-serif;
+  	font-weight:bold; 
+}
+
+body {
+    background: white;
+}
